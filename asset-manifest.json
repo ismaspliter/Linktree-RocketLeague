@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Linktree-RocketLeague/static/css/main.1891fea5.css",
-    "main.js": "/Linktree-RocketLeague/static/js/main.90919407.js",
-    "index.html": "/Linktree-RocketLeague/index.html",
-    "main.1891fea5.css.map": "/Linktree-RocketLeague/static/css/main.1891fea5.css.map",
-    "main.90919407.js.map": "/Linktree-RocketLeague/static/js/main.90919407.js.map"
+    "main.css": "/linktree/static/css/main.1891fea5.css",
+    "main.js": "/linktree/static/js/main.5db25e21.js",
+    "index.html": "/linktree/index.html",
+    "main.1891fea5.css.map": "/linktree/static/css/main.1891fea5.css.map",
+    "main.5db25e21.js.map": "/linktree/static/js/main.5db25e21.js.map"
   },
   "entrypoints": [
     "static/css/main.1891fea5.css",
-    "static/js/main.90919407.js"
+    "static/js/main.5db25e21.js"
   ]
 }
